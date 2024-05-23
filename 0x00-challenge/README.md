@@ -1,1 +1,1 @@
-# Fix My Code - 0x00
+Solution to fix my code challenge
