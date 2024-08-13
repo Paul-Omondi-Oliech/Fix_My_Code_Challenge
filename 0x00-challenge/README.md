@@ -1,1 +1,1 @@
-Solution to fix my code challenge
+Solution to fix the code challenge
